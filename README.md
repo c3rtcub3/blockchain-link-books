@@ -1,7 +1,7 @@
 # Awesome-Blockchain
 Blockchain and etc...
 ### Contributing
-Thank to Group Blockchain Ha Noi and Group VietNam Blockchain Developer help me collecting resources below.
+Thank to Group Blockchain mdplus, Ha Noi and Group VietNam Blockchain Developer for collecting resources below.
 ## Cryptocurrencies
 * [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://youtu.be/bBC-nXj3Ng4) - How to cryptocurencies work?
 ## Blockchain Tutorials
